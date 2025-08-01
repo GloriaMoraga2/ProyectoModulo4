@@ -1,0 +1,38 @@
+18:19:13.257 DEBUG AUTOMATION - Inicializando el driver
+18:19:16.037 DEBUG AUTOMATION - Maximizando la pantalla
+18:19:16.177 DEBUG AUTOMATION - Eliminando las cookies
+18:19:21.263 INFO  AUTOMATION - Escribo el username
+18:19:21.745 INFO  AUTOMATION - Escibo el password
+18:19:21.865 INFO  AUTOMATION - Hago Click en el boton de login
+18:19:23.875 INFO  AUTOMATION - Verificnado mensaje de error
+18:19:27.347 DEBUG AUTOMATION - Matando al driver
+18:19:28.273 DEBUG AUTOMATION - Inicializando el driver
+18:19:30.509 DEBUG AUTOMATION - Maximizando la pantalla
+18:19:30.699 DEBUG AUTOMATION - Eliminando las cookies
+18:19:35.041 INFO  AUTOMATION - Verifico la UI de la pagina de login
+18:19:38.273 DEBUG AUTOMATION - Matando al driver
+18:19:39.301 DEBUG AUTOMATION - Inicializando el driver
+18:19:40.876 DEBUG AUTOMATION - Maximizando la pantalla
+18:19:40.954 DEBUG AUTOMATION - Eliminando las cookies
+18:19:45.885 INFO  AUTOMATION - Escribo el username
+18:19:46.273 INFO  AUTOMATION - Escibo el password
+18:19:46.397 INFO  AUTOMATION - Hago Click en el boton de login
+18:19:49.645 INFO  AUTOMATION - Verifico la UI de la pagina de login Exitoso
+18:19:52.770 DEBUG AUTOMATION - Matando al driver
+18:19:54.108 DEBUG AUTOMATION - Inicializando el driver
+18:19:55.557 DEBUG AUTOMATION - Maximizando la pantalla
+18:19:55.789 DEBUG AUTOMATION - Eliminando las cookies
+18:19:59.644 INFO  AUTOMATION - Escribo el FirstName
+18:19:59.971 INFO  AUTOMATION - Escribo el LastName
+18:20:00.149 INFO  AUTOMATION - Escribo el Email
+18:20:00.344 INFO  AUTOMATION - Escribo el Password
+18:20:00.534 INFO  AUTOMATION - Escribo el ConfirmPassword
+18:20:00.658 INFO  AUTOMATION - Hago Click en el boton de Crea cuenta
+18:20:05.225 INFO  AUTOMATION - Verificando mensaje de bienvenida
+18:20:08.430 DEBUG AUTOMATION - Matando al driver
+18:20:09.783 DEBUG AUTOMATION - Inicializando el driver
+18:20:11.173 DEBUG AUTOMATION - Maximizando la pantalla
+18:20:11.393 DEBUG AUTOMATION - Eliminando las cookies
+18:20:15.258 INFO  AUTOMATION - Hago click en Crear cuenta sin rellenar campos
+18:20:15.783 INFO  AUTOMATION - Verifico mensaje de error para los campos requeridos
+18:20:19.113 DEBUG AUTOMATION - Matando al driver

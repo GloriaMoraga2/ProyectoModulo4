@@ -1,0 +1,18 @@
+18:19:21.263 INFO  AUTOMATION - Escribo el username
+18:19:21.745 INFO  AUTOMATION - Escibo el password
+18:19:21.865 INFO  AUTOMATION - Hago Click en el boton de login
+18:19:23.875 INFO  AUTOMATION - Verificnado mensaje de error
+18:19:35.041 INFO  AUTOMATION - Verifico la UI de la pagina de login
+18:19:45.885 INFO  AUTOMATION - Escribo el username
+18:19:46.273 INFO  AUTOMATION - Escibo el password
+18:19:46.397 INFO  AUTOMATION - Hago Click en el boton de login
+18:19:49.645 INFO  AUTOMATION - Verifico la UI de la pagina de login Exitoso
+18:19:59.644 INFO  AUTOMATION - Escribo el FirstName
+18:19:59.971 INFO  AUTOMATION - Escribo el LastName
+18:20:00.149 INFO  AUTOMATION - Escribo el Email
+18:20:00.344 INFO  AUTOMATION - Escribo el Password
+18:20:00.534 INFO  AUTOMATION - Escribo el ConfirmPassword
+18:20:00.658 INFO  AUTOMATION - Hago Click en el boton de Crea cuenta
+18:20:05.225 INFO  AUTOMATION - Verificando mensaje de bienvenida
+18:20:15.258 INFO  AUTOMATION - Hago click en Crear cuenta sin rellenar campos
+18:20:15.783 INFO  AUTOMATION - Verifico mensaje de error para los campos requeridos
