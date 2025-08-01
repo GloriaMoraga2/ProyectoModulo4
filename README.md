@@ -50,6 +50,9 @@ Incluye:
 - Buenas prácticas en la organización de carpetas para proyectos de automatización.
 
 ---
+##Sugerencias
+Para ejecutar la prueba de registro de usuario se sugiere cambiar el Email, va con uno nuevo pero si se desea ejecutar nuevamente
+se suguiere el cambio de este.
 
 ## Estructura del proyecto
 ProyectoModulo4/
@@ -68,8 +71,7 @@ ProyectoModulo4/
 │ │ │ └── Login.feature
 └── allure-results/ # Carpeta generada tras la ejecución para reportes Allure
 
-## Instalación
-bash
+```bash
 git clone https://github.com/GloriaMoraga2/ProyectoModulo4.git
 cd ProyectoModulo4
 mvn clean install
