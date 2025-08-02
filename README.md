@@ -10,7 +10,7 @@ La suite automatiza escenarios positivos y negativos, incluyendo:
 - Inicio de sesión con credenciales válidas.
 
 ---
-
+Si  ejecutan  la prueba de registro de usuario  dos veces se sugiere realizar cambio de email 
 ## 🛠 Tecnologías utilizadas
 - **Java 17**
 - **Maven**
