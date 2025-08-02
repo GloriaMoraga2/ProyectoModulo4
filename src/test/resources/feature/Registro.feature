@@ -9,4 +9,4 @@ Feature: Registro de nuevo usuario
     Scenario: Validar campos requeridos vacios
       Given Navego a la pagina de "customer/account/create"
       When Dejar todos los campos de registro vacio
-      Then Verifico que el mensaje de advertencia sea "This is a required field."
+      Then Verifico que el mensa de advertencia sea "This is a required field."

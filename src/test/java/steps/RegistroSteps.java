@@ -71,7 +71,7 @@ public class RegistroSteps {
     }
 
 
-    @Then("Verifico que el mensaje de advertencia sea {string}")
+    @Then("Verifico que el mensa de advertencia sea {string}")
     public void verificarMensaje(String msnEsperado) {
         Logs.info("Verifico mensaje de error para los campos requeridos");
 
@@ -94,6 +94,5 @@ public class RegistroSteps {
             );
         }
     }
-
 }
 
