@@ -25,7 +25,6 @@ public class World {
         Logs.debug("Eliminando las cookies");
         driver.manage().deleteAllCookies();
 
-
     }
 
     @After
@@ -39,7 +38,6 @@ public class World {
         Logs.debug("Matando al driver");
         driver.quit();
     }
-
 
 
     @Given("Navego a la pagina de {string}")

@@ -1,18 +1,18 @@
-18:19:21.263 INFO  AUTOMATION - Escribo el username
-18:19:21.745 INFO  AUTOMATION - Escibo el password
-18:19:21.865 INFO  AUTOMATION - Hago Click en el boton de login
-18:19:23.875 INFO  AUTOMATION - Verificnado mensaje de error
-18:19:35.041 INFO  AUTOMATION - Verifico la UI de la pagina de login
-18:19:45.885 INFO  AUTOMATION - Escribo el username
-18:19:46.273 INFO  AUTOMATION - Escibo el password
-18:19:46.397 INFO  AUTOMATION - Hago Click en el boton de login
-18:19:49.645 INFO  AUTOMATION - Verifico la UI de la pagina de login Exitoso
-18:19:59.644 INFO  AUTOMATION - Escribo el FirstName
-18:19:59.971 INFO  AUTOMATION - Escribo el LastName
-18:20:00.149 INFO  AUTOMATION - Escribo el Email
-18:20:00.344 INFO  AUTOMATION - Escribo el Password
-18:20:00.534 INFO  AUTOMATION - Escribo el ConfirmPassword
-18:20:00.658 INFO  AUTOMATION - Hago Click en el boton de Crea cuenta
-18:20:05.225 INFO  AUTOMATION - Verificando mensaje de bienvenida
-18:20:15.258 INFO  AUTOMATION - Hago click en Crear cuenta sin rellenar campos
-18:20:15.783 INFO  AUTOMATION - Verifico mensaje de error para los campos requeridos
+19:24:35.864 INFO  AUTOMATION - Escribo el username
+19:24:36.326 INFO  AUTOMATION - Escibo el password
+19:24:36.481 INFO  AUTOMATION - Hago Click en el boton de login
+19:24:38.962 INFO  AUTOMATION - Verificnado mensaje de error
+19:24:46.719 INFO  AUTOMATION - Verifico la UI de la pagina de login
+19:25:01.996 INFO  AUTOMATION - Escribo el username
+19:25:02.455 INFO  AUTOMATION - Escibo el password
+19:25:02.629 INFO  AUTOMATION - Hago Click en el boton de login
+19:25:06.317 INFO  AUTOMATION - Verifico la UI de la pagina de login Exitoso
+19:25:16.978 INFO  AUTOMATION - Escribo el FirstName
+19:25:17.444 INFO  AUTOMATION - Escribo el LastName
+19:25:17.578 INFO  AUTOMATION - Escribo el Email
+19:25:17.775 INFO  AUTOMATION - Escribo el Password
+19:25:18.062 INFO  AUTOMATION - Escribo el ConfirmPassword
+19:25:18.275 INFO  AUTOMATION - Hago Click en el boton de Crea cuenta
+19:25:22.191 INFO  AUTOMATION - Verificando mensaje de bienvenida
+19:25:31.826 INFO  AUTOMATION - Hago click en Crear cuenta sin rellenar campos
+19:25:32.302 INFO  AUTOMATION - Verifico mensaje de error para los campos requeridos

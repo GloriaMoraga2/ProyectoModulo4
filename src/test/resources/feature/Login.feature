@@ -1,4 +1,4 @@
-Feature: Logim
+Feature: Login
 
   Background: Precondicion
     Given Navego a la pagina de "customer/account/login"
